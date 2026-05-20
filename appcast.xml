@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!-- Seed feed. `generate_appcast` (run by CI) appends <item> entries with
      version, enclosure URL, length and sparkle:edSignature for each release. -->
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Viewport</title>
-    <link>https://stemps.github.io/viewport-releases/appcast.xml</link>
-    <description>Most recent changes for Viewport.</description>
-    <language>en</language>
-  </channel>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Viewport</title>
+        <link>https://stemps.github.io/viewport-releases/appcast.xml</link>
+        <description>Most recent changes for Viewport.</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 20 May 2026 13:46:55 +0000</pubDate>
+            <link>https://stemps.github.io/viewport-releases/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.0.1/Viewport-1.0.0.dmg" length="1737536" type="application/octet-stream" sparkle:edSignature="72Yz8xWvm1sx6muVftbRAusbe3pz2GpfEeSfw2R+7anjopDi1/Y+a4ztBEbA/BQW6CF6DRnP62ECWcppwOy/Ag=="/>
+        </item>
+    </channel>
 </rss>
