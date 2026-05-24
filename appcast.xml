@@ -8,6 +8,16 @@
         <description>Most recent changes for Viewport.</description>
         <language>en</language>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 24 May 2026 11:55:41 +0000</pubDate>
+            <link>https://stemps.github.io/viewport-releases/</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://stemps.github.io/viewport-releases/Viewport-0.1.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.1.1/Viewport-0.1.1.dmg" length="3972624" type="application/octet-stream" sparkle:edSignature="rghlq75RtvNFZFlMuKckAOYvCi5Yq6QC4uMCBzIucQM++of83DAJdo9/ju1JzIzO/1lpwxoanc0QvqZ7i4h4CQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 20 May 2026 13:46:55 +0000</pubDate>
             <link>https://stemps.github.io/viewport-releases/</link>
