@@ -15,7 +15,8 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.0.1/Viewport-1.0.0.dmg" length="1737536" type="application/octet-stream" sparkle:edSignature="72Yz8xWvm1sx6muVftbRAusbe3pz2GpfEeSfw2R+7anjopDi1/Y+a4ztBEbA/BQW6CF6DRnP62ECWcppwOy/Ag=="/>
+            <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.1.0/Viewport-1.0.0.dmg" length="4081603" type="application/octet-stream" sparkle:edSignature="LJa2lwuT0YBm+o361+hhO2obDTsqxls15ApkGcJ246LvZR5G0vUhcJ0wz12CPbNd7bjX8rWk27o4Fs/IP4DsDw=="/>
+            <sparkle:releaseNotesLink>https://stemps.github.io/viewport-releases/Viewport-1.0.0.md</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
