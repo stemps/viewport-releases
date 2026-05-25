@@ -8,6 +8,16 @@
         <description>Most recent changes for Viewport.</description>
         <language>en</language>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 25 May 2026 12:33:09 +0000</pubDate>
+            <link>https://stemps.github.io/viewport-releases/</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://stemps.github.io/viewport-releases/Viewport-0.1.4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.1.4/Viewport-0.1.4.dmg" length="3974932" type="application/octet-stream" sparkle:edSignature="nYnRO8Xb3YyiztZflYxkuX+SRauxYAcRjmn0KCKfCoIWKyrLAi/3tMvrRSGzR81ujrP8Xix4qmo6af0vMVDODQ=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Sun, 24 May 2026 13:16:53 +0000</pubDate>
             <link>https://stemps.github.io/viewport-releases/</link>
@@ -26,16 +36,6 @@
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://stemps.github.io/viewport-releases/Viewport-0.1.2.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.1.2/Viewport-0.1.2.dmg" length="3974897" type="application/octet-stream" sparkle:edSignature="w3b/8BmKZ9SbpyL11Lojgl8DdT4CRV7cnAxvpHaMCT6Xky174l5owwe0FVEd7ncaDviaZ2Oh7nBzVFtCgN3cAQ=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Sun, 24 May 2026 11:55:41 +0000</pubDate>
-            <link>https://stemps.github.io/viewport-releases/</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://stemps.github.io/viewport-releases/Viewport-0.1.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/stemps/viewport-releases/releases/download/v0.1.1/Viewport-0.1.1.dmg" length="3972624" type="application/octet-stream" sparkle:edSignature="rghlq75RtvNFZFlMuKckAOYvCi5Yq6QC4uMCBzIucQM++of83DAJdo9/ju1JzIzO/1lpwxoanc0QvqZ7i4h4CQ=="/>
         </item>
         <item>
             <title>1.0.0</title>
